@@ -1,3 +1,21 @@
+# User Management Backend
+
+This project is a user management backend built with MongoDB, Express.js. This RESTful API provides features like user registration and login with proper validation and error handling.
+
+
+## Installation
+
+- To deploy this project, first download or fork the source code. Then run
+
+```bash
+  cd user_management
+
+```
+
+- To install dependencies run
+```bash
+  npm install
+  npm install express dotenv cors mongoose
 
 ```
 
